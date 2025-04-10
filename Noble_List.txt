@@ -1,0 +1,10 @@
+Catherine_de'_Medici:3:noble:white:0:blue:3:green:3:red:3:black:0
+Elisabeth_Of_Austria:3:noble:white:3:blue:3:green:0:red:0:black:3
+Isabella_I_Of_Castille:3:noble:white:4:blue:0:green:0:red:0:black:4
+Niccolo_Machiavelli:3:noble:white:4:blue:4:green:0:red:0:black:0
+Suleiman_The_Magnificent:3:noble:white:0:blue:4:green:4:red:0:black:0
+Anne_Of_Brittany:3:noble:white:3:blue:3:green:3:red:0:black:0
+Charles_V:3:noble:white:3:blue:0:green:0:red:3:black:3
+Francis_I_Of_France:3:noble:white:0:blue:0:green:3:red:3:black:3
+Henry_VII:3:noble:white:0:blue:0:green:0:red:4:black:4
+Mary_Stuart:3:noble:white:0:blue:0:green:4:red:0:black:4

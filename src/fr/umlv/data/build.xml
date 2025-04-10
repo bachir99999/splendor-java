@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project default="jar" name="create_jar">
+	<target name="jar" depends="compile">
+		<jar destfile="../../../../SlpendorG.jar">
+		<fileset dir ="../../../../classes"/>
+		</jar>
+	</target>
+	
+	<path id="classpath">
+		<pathelement location="../../../../lib/zen5.jar"/>
+	</path>
+	<target name = "clean">
+		<delete file="../../../../classes/*.class"/>
+	</target>
+	<target name="compile">
+		<javac classpathref="classpath" includeantruntime="true" srcdir="." destdir="../../../../classes"/>
+	</target>
+</project>
